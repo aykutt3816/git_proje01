@@ -7,7 +7,11 @@ public class FirstClass {
 		System.out.println("ilk commit from repository");
         System.out.println("ikinci commit from repository");
         
+
         System.out.println("yen ekledim haberin olsun feature");
+
+        System.out.println("masterdan israrci commit");
+
 	}
 
 }
